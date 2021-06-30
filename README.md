@@ -2,8 +2,7 @@
 
 ## Completion of training
 
-
-패스트 캠퍼스
+## 패스트 캠퍼스
 
 데이터 사이언스(온라인 완주반 수료)
 (2021.03 ~ 2021.06) [ 113시간 ]
@@ -31,3 +30,12 @@
 - 지도 학습
 - 비지도 학습
 - Deep Learning Framework Keras (머신 구현)
+
+
+## Coursera(스탠퍼트 대학 수준 강의 플랫폼)
+Deep Learning 심화 과정 수료
+(2021.01 ~ 2021.06)
+
+- Neural Networks and Deep Learning
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+- Structuring Machine Learning Projects

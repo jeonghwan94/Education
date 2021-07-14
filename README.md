@@ -1,5 +1,3 @@
-# Education
-
 ### 데이터사이언스 과정  
 (https://github.com/jeonghwan94/Education/tree/Data-Scientist/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4)
 

@@ -6,6 +6,7 @@
 - [fastcampus-수료증명서-이정환.pdf] (https://github.com/jeonghwan94/Education/files/6736954/fastcampus-.-.pdf)
 
 # Deep Learning 심화 과정
+(https://github.com/jeonghwan94/Education/tree/Data-Scientist/Coursera)
 - Coursera(해외 온라인 강의 플랫폼)
 - 2021.01 ~ 2021.06
 

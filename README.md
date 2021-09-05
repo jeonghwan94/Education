@@ -21,4 +21,4 @@
 
 - 패스트캠퍼스 (국내 온라인 강의 플랫폼)
 - 2021.03.08 ~ 2021.06.06 [ 113시간 ]
-- [수료증.pdf](https://github.com/jeonghwan94/Education/files/6736954/fastcampus-.-.pdf)
+- [데이터사이언스 스쿨 온라인 완주반 수료증.pdf](https://github.com/jeonghwan94/Education/files/6736954/fastcampus-.-.pdf)

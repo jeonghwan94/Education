@@ -2,10 +2,12 @@
 ## 과정 소개
 - 기간 : 2021.03.08 ~ 2021.06.06.
 
+![2](https://user-images.githubusercontent.com/81011613/132118290-c62df999-42ca-43fc-bf1e-0db2d86bb076.png)
 ![1](https://user-images.githubusercontent.com/81011613/132117605-a9f936cb-d6eb-480b-ba6e-2d801dd1b7b0.png)
+![3](https://user-images.githubusercontent.com/81011613/132118329-ba10bf49-6bc0-4a62-8f41-e04380095d6a.png)
 ![2](https://user-images.githubusercontent.com/81011613/132117610-36ea356f-c007-4a9b-9a7e-1dc7ad8dbb5a.png)
-![3](https://user-images.githubusercontent.com/81011613/132117611-82a4f391-6d1d-4d34-9e26-76fda2100708.png)
-![4](https://user-images.githubusercontent.com/81011613/132117612-18e0789b-86ce-4be5-a5e2-55a0edfae921.png)
+![6](https://user-images.githubusercontent.com/81011613/132118378-16276056-5b9d-4471-8951-0bafda34de8c.png)
+![7](https://user-images.githubusercontent.com/81011613/132118380-ba839115-a42c-48b3-a15c-dada8ee66ec2.png)
 ![5](https://user-images.githubusercontent.com/81011613/132117613-0ee54820-ebf4-4d36-aa8a-e9a502d68f31.png)
 ![6](https://user-images.githubusercontent.com/81011613/132117615-4c2d3737-6198-475d-b3e5-7fdc725a5a15.png)
 

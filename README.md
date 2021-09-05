@@ -14,7 +14,7 @@
 # [DeepLearning AI 심층 학습 특화 과정](https://github.com/jeonghwan94/Education/tree/Data-Scientist/Coursera)
 
 - Coursera(해외 온라인 강의 플랫폼)
-- 2021.01 ~ 2021.06
+- 2021.03.02 ~ 2021.06.24
 - [수료증.pdf]
 
 # [데이터사이언스 과정](https://github.com/jeonghwan94/Education/tree/Data-Scientist/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4)  

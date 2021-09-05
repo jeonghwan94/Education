@@ -5,7 +5,7 @@
 - [수료증.pdf]
 
 # AI 온라인 실무 응용 교육과정
-(https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EA%B5%AD%EB%B9%84%EA%B5%90%EC%9C%A1)
+(https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4#readme)
 - 정보통신산업진흥원(엘리스 교육 플랫폼)
 - 2021.08.18 ~ 2021.08.25 [ 60시간 ]
 - [수료증.pdf]

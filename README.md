@@ -8,7 +8,8 @@
 
 - 정보통신산업진흥원(엘리스 교육 플랫폼)
 - 2021.08.18 ~ 2021.08.25 [ 60시간 ]
-- [수료증.pdf]
+- [AI 기초 수료증.pdf](file:///C:/Users/azfbw/Downloads/nipa_certification%20(1).pdf)
+- [AI 응용 수료증.pdf](file:///C:/Users/azfbw/Downloads/nipa_certification.pdf)
 
 # [Deep Learning 심화 과정](https://github.com/jeonghwan94/Education/tree/Data-Scientist/Coursera)
 

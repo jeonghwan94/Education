@@ -16,7 +16,9 @@
   - 공공데이터를 활용한 파이썬 데이터 분석 프로젝트
     - [국내 코로나 환자 데이터 분석](https://github.com/jeonghwan94/Education/blob/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5Bp1%5D_%EC%BD%94%EB%A1%9C%EB%82%98_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
     - [지하철 승하차 인원 분석을 통한 시간대별 혼잡도 분석](https://github.com/jeonghwan94/Education/blob/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5Bp2%5D_%EC%A7%80%ED%95%98%EC%B2%A0_%EC%8A%B9%ED%95%98%EC%B0%A8_%EC%9D%B8%EC%9B%90_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
-     >  중간에 내용 프로젝트 변경
+    
+    >  중간에 내용 프로젝트 변경
+     
      - [자동차 리콜 현황 데이터를 활용한 데이터 분석](https://github.com/jeonghwan94/Education/blob/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5Bp3%5D_%EC%9E%90%EB%8F%99%EC%B0%A8_%EB%A6%AC%EC%BD%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
     - [유가 데이터를 활용한 주유소 시장 분석](https://github.com/jeonghwan94/Education/blob/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5Bp4%5D_%EC%9C%A0%EA%B0%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C_%EC%A3%BC%EC%9C%A0%EC%86%8C_%EC%8B%9C%EC%9E%A5%EB%B6%84%EC%84%9D.ipynb)
    

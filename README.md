@@ -1,4 +1,4 @@
-# [비대면 서비스 5G AI 영상보안](https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EA%B5%AD%EB%B9%84%EA%B5%90%EC%9C%A1#readme)
+# [[뉴딜 일자리] 비대면 서비스 5G AI 영상보안](https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EA%B5%AD%EB%B9%84%EA%B5%90%EC%9C%A1#readme)
 
 - 한국IT교육원(국비학원)
 - 2021.03 ~ 
